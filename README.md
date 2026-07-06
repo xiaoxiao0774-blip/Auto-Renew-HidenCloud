@@ -14,6 +14,7 @@
 | `TG_BOT_TOKEN`  | ❌可选 | Telegram Bot Token | 
 | `TG_CHAT_ID`    | ❌可选 | Telegram Chat ID |
 
+COOKIE_VALUE的获取如图
 
 ### 代理格式（确认在v2rayN里使用正常的节点）`最好用注册号的代理`
 
