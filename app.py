@@ -381,6 +381,5 @@ def main():
             if 'browser' in locals() and browser:
                 browser.close()
                 
-    log("🏁 脚本执行完毕！")
 if __name__ == "__main__":
     main()
